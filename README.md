@@ -2,7 +2,7 @@
 You need to clone back from:  https://github.com/IgnatZakalinsky/cards-nya-back-2-0 in separate folder.\
 Open the back project and swich branch to branch dev.\
 Type yarn in console for installing libraries.\
-After all, you need to type yarn start.\
+After all, you need to type yarn start.
 
 # Getting Started with Create React App
 
